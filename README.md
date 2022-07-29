@@ -5,11 +5,9 @@ A landing page where potential buyers get to review latest orders and those high
 
 ### Screenshots
 
-![Capture](https://user-images.githubusercontent.com/66152995/181799942-71de0ea6-962d-4b95-8424-812b94902fdd.PNG)
-DESKTOP VIEW
+![Desktop view](https://user-images.githubusercontent.com/66152995/181799942-71de0ea6-962d-4b95-8424-812b94902fdd.PNG)
 
-![Capture](https://user-images.githubusercontent.com/66152995/181800608-d0dc4b8d-41aa-459f-9e8d-adb0e057d44f.PNG)
-MOBILE VIEW
+![mobile view](https://user-images.githubusercontent.com/66152995/181801140-6a732950-e47d-45c8-b856-8c6daab1d31b.PNG)
 
 ### Links
 - Live Site URL: (https://your-live-site-url.com)
