@@ -1,0 +1,24 @@
+/* @import url('./Mo;s Motors/public/img/nav.jpg'); */
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Text:wght@100&family=Edu+VIC+WA+NT+Beginner:wght@400;500;600&family=Gentium+Plus:ital,wght@0,400;0,700;1,400;1,700&family=Luckiest+Guy&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Text:wght@100&family=Edu+VIC+WA+NT+Beginner:wght@400;500;600&family=Gentium+Plus:ital,wght@0,400;0,700;1,400;1,700&family=Luckiest+Guy&family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Text:wght@100&family=Gentium+Plus:ital,wght@0,400;0,700;1,400;1,700&family=Luckiest+Guy&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Text:wght@100&family=Dancing+Script:wght@400;500;600;700&family=Edu+VIC+WA+NT+Beginner:wght@400;500;600&family=Gentium+Plus:ital,wght@0,400;0,700;1,400;1,700&family=Luckiest+Guy&family=Pacifico&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.car {
+    @apply mt-3 hover:shadow-xl border-4 border-stone-700 rounded-md bg-grayhex transform hover:scale-105 transition ease-in-out duration-700;
+}
+.car-base {
+    @apply px-3 py-3 flex justify-between items-center pt-3 font-extrabold;
+}
+
+.category {
+    @apply text-4xl font-bold font-body border-b-2 border-orange-900 pb-2;
+}
+
+.tag {
+    @apply absolute -top-3 right-0 text-xs px-2 py-1 mr-2 rounded-full font-bold bg-secondary-100 text-secondary-200;
+}
