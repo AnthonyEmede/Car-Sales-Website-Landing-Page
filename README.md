@@ -24,9 +24,9 @@ A landing page where potential buyers get to review latest orders and those high
 I learnt how to use tailwind custom CSS classes. Also learnt how to configure a file path in the content for tailwind to process.
 
 ### Useful resources
-- [(https://heroicons.com/)] - This helped in me downloading icons used for the landing page
-- [(https://tailwind.com/)] - This helped in providing infos on the various custom tailwind css classes and how they are being used.
-- [(https://w3schools.com/)] - This site helped in understanding basic html 5 sementics and CSS. 
+- [heroicons] - This helped in me downloading icons used for the landing page
+- [tailwind] - This helped in providing infos on the various custom tailwind css classes and how they are being used.
+- [w3schools] - This site helped in understanding basic html 5 sementics and CSS. 
 
 
 ## AUTHOR
