@@ -10,7 +10,7 @@ A landing page where potential buyers get to review latest orders and those high
 ![mobile view](https://user-images.githubusercontent.com/66152995/181801140-6a732950-e47d-45c8-b856-8c6daab1d31b.PNG)
 
 ### Links
-- Live Site URL: (https://your-live-site-url.com)
+- Live Site URL: (https://anthonyemede.github.io/Car-Sales-Website-Landing-Page/public/)
 
 
 ## MY PROCESS
